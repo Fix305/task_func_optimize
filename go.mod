@@ -1,4 +1,4 @@
-module task_optimize_my_solution
+module anton_m_solution
 
 go 1.18
 

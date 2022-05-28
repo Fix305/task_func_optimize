@@ -1,4 +1,4 @@
-package my_solution
+package anton_m_solution
 
 import "testing"
 import "github.com/comdiv/task_func_optimize_base_go/basis"
