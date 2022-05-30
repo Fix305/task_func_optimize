@@ -2,7 +2,7 @@ module anton_m_solution
 
 go 1.18
 
-require github.com/comdiv/task_func_optimize_base_go v0.0.0-20220527175237-d39748bd39aa
+require github.com/comdiv/task_func_optimize_base_go v0.0.0-20220530032531-6cc71203a104
 
 require (
 	github.com/davecgh/go-spew v1.1.0 // indirect

@@ -1,5 +1,7 @@
 github.com/comdiv/task_func_optimize_base_go v0.0.0-20220527175237-d39748bd39aa h1:M+WFTSbbjAfuuDiNy7Bb/mozHIGW9z6TwQD8ZMHWFO0=
 github.com/comdiv/task_func_optimize_base_go v0.0.0-20220527175237-d39748bd39aa/go.mod h1:ky5AXwtnHMKH7hjhGDVeu4k0PN8icqTpk2sQ387udPw=
+github.com/comdiv/task_func_optimize_base_go v0.0.0-20220530032531-6cc71203a104 h1:DicOq1jBRiUS+WYaxr1Xuffp1bJfNKTZ4jW3IDiEWgA=
+github.com/comdiv/task_func_optimize_base_go v0.0.0-20220530032531-6cc71203a104/go.mod h1:ky5AXwtnHMKH7hjhGDVeu4k0PN8icqTpk2sQ387udPw=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=

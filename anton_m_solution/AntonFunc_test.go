@@ -12,6 +12,6 @@ func TestMySuperFuncImpl(t *testing.T) {
 	basis.SuperFuncTestCase(MySuperFuncImpl, t)
 }
 
-func BenchmarkMySuperFuncImpl(b *testing.B) {
+func BenchmarkAntonMImpl(b *testing.B) {
 	basis.SuperFuncBenchmark(MySuperFuncImpl, b)
 }
